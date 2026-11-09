@@ -123,7 +123,7 @@ Supply Chain And Inventory Analytics/
 ![Executive Overview](https://github.com/vinayydv2025-del/Supply-Chain-Logistics-Analytics/blob/main/screenshots/01_Executive_Overview.png)
 
 ### 2. Delivery & Operations Analysis
-![Delivery & Operations Analysis](screenshots/Delivery_&_Operations_Analysis.png)
+![Delivery & Operations Analysis](https://github.com/vinayydv2025-del/Supply-Chain-Logistics-Analytics/blob/main/screenshots/02_Delivery_Operations_Analysis.png)
 
 ### 3. Product & Customer Insights
 ![Product & Customer Insights](screenshots/Product_&_Customer_Insights.png)
