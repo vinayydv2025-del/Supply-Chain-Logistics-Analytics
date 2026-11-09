@@ -1,0 +1,10 @@
+SUPPLY CHAIN DATASET AUDIT
+Rows: 180519
+Columns: 53
+Duplicate rows: 0
+
+Missing Values:
+Product Description    180519
+Order Zipcode          155679
+Customer Lname              8
+Customer Zipcode            3
