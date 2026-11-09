@@ -120,7 +120,7 @@ Supply Chain And Inventory Analytics/
 ## Power BI Dashboard Previews
 
 ### 1. Executive Overview
-![Executive Overview](https://raw.githubusercontent.com/vinayydv2025-del/Supply-Chain-Logistics-Analytics/main/screenshots/executive_overview.png))
+![Executive Overview](https://raw.githubusercontent.com/vinayydv2025-del/Supply-Chain-Logistics-Analytics/main/screenshots/executive_overview.png)
 
 ### 2. Delivery & Operations Analysis
 ![Delivery & Operations Analysis](screenshots/Delivery_&_Operations_Analysis.png)
