@@ -117,6 +117,16 @@ Supply Chain And Inventory Analytics/
 ├── requirements.txt
 └── .gitignore
 ```
+## Power BI Dashboard Previews
+
+### 1. Executive Overview
+![Executive Overview](screenshots/Executive_Overview.png)
+
+### 2. Delivery & Operations Analysis
+![Delivery & Operations Analysis](screenshots/Delivery_&_Operations_Analysis.png)
+
+### 3. Product & Customer Insights
+![Product & Customer Insights](screenshots/Product_&_Customer_Insights.png)
 
 ## Conclusion
 
